@@ -3,7 +3,7 @@ import "@/app/ui/global.css"
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Shafiya Invoice Dashboard",
+  title: "Shafiya Invoice Dashboard project",
   description: "Shafiya built this invoice dashboard for learning",
   keywords: "shafiya, shinaash, invoice, dashboard"
 }
